@@ -1,0 +1,9 @@
+.image {
+    display: none;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(11, 5em);
+    grid-template-rows: repeat(3, 5rem);
+}
